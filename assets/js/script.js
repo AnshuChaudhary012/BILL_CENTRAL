@@ -64,7 +64,7 @@ function moveLeft() {
   cards.style.transition = "none";
   cards.style.transform = `translateX(${position}px)`;
 
-  requestAnimationFrame(() => {
+  requestAnimationFrame(() => {localStorage
     requestAnimationFrame(() => {
       position += cardWidth;
 
