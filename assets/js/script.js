@@ -17,7 +17,6 @@ function moveLogos() {
 
   requestAnimationFrame(moveLogos);
 }
-
 moveLogos();
 
 // SCROLL CARDS
