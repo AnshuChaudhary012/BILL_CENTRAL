@@ -1,7 +1,6 @@
-# Bill Central
+# Bill Central layout
 
 ## links
 1. live link:- https://billcentral-nine.vercel.app/
 2. repo link:- https://github.com/AnshuChaudhary012/BILL_CENTRAL
 
- <!-- ## npx @tailwindcss/cli -i /assets/css/input.css -o /assets/css/output.css --watch -->
